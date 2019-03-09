@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://alexeymorgunov.github.io/
-baseurl: /
+baseurl: 
 title: Alexey Morgunov
 author: Alexey Morgunov
 description: Personal website
